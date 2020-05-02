@@ -55,7 +55,7 @@
       $('.modal-trigger').leanModal();
     }
   };
-// let searchInput = document.getElemntById = ('searchInput').value;
+
 let searchButton = document.getElementById('search-button');
 let search = document.getElementById('search');
 
